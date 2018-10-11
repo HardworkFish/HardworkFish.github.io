@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title> Hello , The first day! </title>
+      <link href="/2018/10/11/Hello-The-first-day/"/>
+      <url>/2018/10/11/Hello-The-first-day/</url>
+      
+        <content type="html"><![CDATA[<h2 id="搭建网站的第一天"><a href="#搭建网站的第一天" class="headerlink" title="搭建网站的第一天"></a>搭建网站的第一天</h2><h3 id="网站说明"><a href="#网站说明" class="headerlink" title="网站说明"></a>网站说明</h3><p>此网站基于 Github 以及 Hexo 主题实现，快速搭建自己分个人网站。</p><h3 id="分享一首歌"><a href="#分享一首歌" class="headerlink" title="分享一首歌"></a>分享一首歌</h3><p>穿过你的身体</p><p>有你深藏的秘密</p><p>继续随着风去</p><p>&lt;! –more–&gt;</p><p>等候你降临</p><p>你沉睡在我的梦里</p><p>像不曾融化的冰</p><p>我拥抱过你</p><p>冰冷的身体</p><p>忽远忽近</p><p>遥不可期</p><p>不曾预料落入你的手心</p><p>雨淅沥沥</p><p>打湿眼睛</p><p>能否看清</p><p>无法直视你眼睛</p><p>月勾叶残风吹雨</p><p>瞬息凝结了空气</p><p>世间万物围绕你</p><p>小心翼翼</p><p>轻轻拾起</p><p>你我散落的剧情</p><p>风中摇曳的雨滴</p><p>淋入你心</p><p>我的眼里</p><p>折射着你</p><p>日月银河星际飞鸟草地</p><p>雨淅沥沥</p><p>划过眼睛</p><p>宛若泪滴</p><p>无法直视你眼睛</p><p>月勾叶残风吹雨</p><p>瞬息凝结了空气</p><p>世间万物围绕你</p><p>小心翼翼</p><p>轻轻拾起</p><p>你我散落的剧情</p><p>你是天空的颜色</p><p>你不可及</p><p>无法直视你眼睛</p><p>海面风起荡涟漪</p><p>寻找你最深足迹</p><p>遍体鳞伤也可以</p><p>为你弹琴</p><p>为你谱曲</p><p>或许会不够动听</p><p>无法直视这风景</p><p>太过晶莹</p><p>穿过一座岛屿</p><p>有你遗落的痕迹</p><p>不闻银河须臾</p><p>固执走向你</p><p>你面柔笑意</p><p>我无法直视你</p><hr><p>测试这篇文章发布！！</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2018/10/10/hello-world/"/>
+      <url>/2018/10/10/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="hljs highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">"My New Post"</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="hljs highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="hljs highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="hljs highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+  
+  
+    
+    <entry>
+      <title>test</title>
+      <link href="/test/index.html"/>
+      <url>/test/index.html</url>
+      
+        <content type="html"><![CDATA[<p>type: “tags”</p>]]></content>
+      
+    </entry>
+    
+  
+</search>
